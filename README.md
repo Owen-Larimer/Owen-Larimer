@@ -17,7 +17,7 @@
 
 <p align="left">
   <a href="https://YOUR-WHOP-LINK" target="_blank">
-    <img src="https://raw.githubusercontent.com/Owen-Larimer/REPO/main/assets/logo.png"
+    <img src="https://raw.githubusercontent.com/Owen-Larimer/Owen-Larimer/main/assets/logo.png"
          alt="BWB Logo"
          width="80"
          style="margin-right:10px;" />
