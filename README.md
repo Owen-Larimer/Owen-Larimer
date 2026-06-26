@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Owen</h1>
-<h3 align="center">A Data Scientist currently in school in Oregon.</h3>
+<h3 align="center">A Data Scientist recently graduated from the University of Oregon.</h3>
 
 - 🔭 I’m currently working on [Advanced Data Visualizations](https://github.com/Owen-Larimer/Data-Visualizations)
 
