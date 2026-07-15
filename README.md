@@ -13,27 +13,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=owen-larimer&show_icons=true&locale=en&layout=compact" alt="owen-larimer" /></p>
 
-<h3 align="left">📈 Bet With the Best Project</h3>
-
-<p align="left">
-  <a href="https://YOUR-WHOP-LINK" target="_blank">
-    <img src="https://raw.githubusercontent.com/Owen-Larimer/Owen-Larimer/main/BWB_logo.png"
-         alt="BWB Logo"
-         width="80"
-         style="margin-right:10px;" />
-  </a>
-</p>
-
-<p align="left">
-  🔹 Data-driven sports picks & analytics<br>
-  🔹 Safe bankroll oriented<br>
-  🔹 Live discussion during events<br>
-  🔹 Pick advice & sports discussion<br>
-
-</p>
-
-<p align="left">
-  <a href="https://whop.com/bet-with-the-best/bet-with-the-best-ufc/">Whop</a> •
-  <a href="https://www.betwithbest.com/">Website</a> •
-  <a href="https://discord.gg/YOURINVITE">Discord</a>
-</p>
